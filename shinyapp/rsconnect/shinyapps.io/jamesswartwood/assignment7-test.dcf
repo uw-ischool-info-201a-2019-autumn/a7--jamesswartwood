@@ -1,0 +1,12 @@
+name: assignment7-test
+title: assignment7-test
+username:
+account: jamesswartwood
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1573192
+bundleId: 2647938
+url: https://jamesswartwood.shinyapps.io/assignment7-test/
+when: 1575681147.75479
+asMultiple: FALSE
+asStatic: FALSE
